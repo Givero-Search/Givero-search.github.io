@@ -16,7 +16,7 @@ body {
 
 /* Header styling */
 header {
-    background-color: #FF0000; /* Red header */
+    background-color: #007BFF; /* Blue header */
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -36,7 +36,7 @@ main {
 
 /* Footer styling */
 footer {
-    background-color: #FF0000; /* Red footer */
+    background-color: #007BFF; /* Blue footer */
     color: #fff;
     padding: 10px;
     text-align: center;
